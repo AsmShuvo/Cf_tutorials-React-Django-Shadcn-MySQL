@@ -39,7 +39,11 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'problems', # name of the app added here
     'rest_framework',
+    'corsheaders',
 ]
+CORS_ORIGIN_WHITELIST = (
+    'http://localhost:3000', #add it to avoid blockage
+)
 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
@@ -49,6 +53,7 @@ MIDDLEWARE = [
     'django.contrib.auth.middleware.AuthenticationMiddleware',
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
+    'corsheaders.middleware.CorsMiddleware' #added for cors origin
 ]
 
 ROOT_URLCONF = 'codeforces_tutorials.urls'
