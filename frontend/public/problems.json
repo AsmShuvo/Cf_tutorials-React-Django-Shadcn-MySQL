@@ -1,0 +1,137 @@
+[
+    {
+        "contestId": 2126,
+        "index": "F",
+        "name": "1-1-1, Free Tree!",
+        "type": "PROGRAMMING",
+        "tags": [
+          "brute force",
+          "data structures",
+          "dfs and similar",
+          "graphs",
+          "implementation",
+          "trees"
+        ]
+      },
+      {
+        "contestId": 2126,
+        "index": "A",
+        "name": "Only One Digit",
+        "type": "PROGRAMMING",
+        "tags": [
+          "brute force",
+          "implementation",
+          "math"
+        ]
+      },
+      {
+        "contestId": 2121,
+        "index": "H",
+        "name": "Ice Baby",
+        "type": "PROGRAMMING",
+        "rating": 2300,
+        "tags": [
+          "binary search",
+          "brute force",
+          "data structures",
+          "dp",
+          "implementation",
+          "sortings"
+        ]
+      },
+      {
+        "contestId": 2121,
+        "index": "E",
+        "name": "Sponsor of Your Problems",
+        "type": "PROGRAMMING",
+        "rating": 1500,
+        "tags": [
+          "dp",
+          "greedy",
+          "implementation",
+          "strings"
+        ]
+      },
+      {
+        "contestId": 2121,
+        "index": "D",
+        "name": "1709",
+        "type": "PROGRAMMING",
+        "rating": 1300,
+        "tags": [
+          "implementation",
+          "sortings"
+        ]
+      },
+      {
+        "contestId": 2121,
+        "index": "C",
+        "name": "Those Who Are With Us",
+        "type": "PROGRAMMING",
+        "rating": 1200,
+        "tags": [
+          "greedy",
+          "greedy",
+          "implementation"
+        ]
+      },
+      {
+        "contestId": 2118,
+        "index": "D2",
+        "name": "Red Light, Green Light (Hard version)",
+        "type": "PROGRAMMING",
+        "points": 1000,
+        "rating": 2200,
+        "tags": [
+          "binary search",
+          "brute force",
+          "data structures",
+          "dfs and similar",
+          "dp",
+          "graphs",
+          "implementation",
+          "math",
+          "number theory"
+        ]
+      },
+      {
+        "contestId": 2118,
+        "index": "D1",
+        "name": "Red Light, Green Light (Easy version)",
+        "type": "PROGRAMMING",
+        "points": 1250,
+        "rating": 1700,
+        "tags": [
+          "brute force",
+          "dfs and similar",
+          "dp",
+          "graphs",
+          "implementation",
+          "number theory"
+        ]
+      },
+      {
+        "contestId": 2117,
+        "index": "A",
+        "name": "False Alarm",
+        "type": "PROGRAMMING",
+        "rating": 800,
+        "tags": [
+          "greedy",
+          "implementation"
+        ]
+      },
+      {
+        "contestId": 2114,
+        "index": "D",
+        "name": "Come a Little Closer",
+        "type": "PROGRAMMING",
+        "rating": 1400,
+        "tags": [
+          "brute force",
+          "greedy",
+          "implementation",
+          "math"
+        ]
+      }
+]
