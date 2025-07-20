@@ -1,6 +1,9 @@
 const Home = () => {
+  console.log("home");
   return (
-    <div>this is home</div>
+    <div className="bg-gray-500 min-h-screen p-4">
+      home
+    </div>
   );
 };
 
